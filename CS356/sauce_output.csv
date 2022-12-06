@@ -1,3 +1,4 @@
+URL,Risk Score,IP Address,URL Accessible?,Indexed On Google?,Domain Blacklisted?,HTTP Status Error?,Page Suspended?,Categorized as Risky?,Very Recent Domain (30 days)?, Recent Domain (6 months)?,Valid HTTPS?
 https://www.datingcam.org/en/,0,109.71.161.136,True,False,False,False,False,False,no,no,True
 https://www.datingcam.org/en/,0,109.71.161.136,True,False,False,False,False,False,no,no,True
 https://www.datingcam.org/es/,0,109.71.161.136,True,False,False,False,False,False,no,no,True

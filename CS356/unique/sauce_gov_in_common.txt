@@ -19,7 +19,7 @@
    2 https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
    2 https://www.google-analytics.com/analytics.js',
    2 https://www.google.com/recaptcha/api.js
-   2 https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+   2 https://www.googletagmanager.com/gtm.js?id='+i+dl
    3 https://api.w.org/
    4 https://www.gstatic.com/recaptcha/releases/jF-AgDWy8ih0GfLx4Semh9UK/recaptcha__en.js
    5 https://schema.org
